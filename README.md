@@ -14,7 +14,7 @@ Each challenge has one or more reference solutions that are:
 
 * Fully functional
 * Unit tested
-* Easy-to-understand
+* Easy to understand
 
 Challenges will soon provide on-demand [incremental hints](https://github.com/donnemartin/interactive-coding-challenges/issues/22) to help you arrive at the optimal solution.
 
